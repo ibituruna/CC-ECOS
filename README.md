@@ -22,7 +22,7 @@ Duas pastas estão disponibilizadas com o seguinte conteúdo:
 
 PINHEIRO, F. V. da S.; COUTINHO, E. F.; SANTOS, I.; BEZERRA, C. I. M. A Tool for Supporting the Teaching and Modeling of Software Ecosystems Using SSN Notation. Journal on Interactive Systems, Porto Alegre, RS, v. 13, n. 1, p. 192–204, 2022. DOI: 10.5753/jis.2022.2602. Disponível em: https://sol.sbc.org.br/journals/index.php/jis/article/view/2602.
 
-...
+```
 @article{Pinheiro_2022JIS, 
 place={Porto Alegre, RS}, 
 title={A Tool for Supporting the Teaching and Modeling of Software Ecosystems Using SSN Notation}, 
@@ -37,4 +37,4 @@ year={2022},
 month={Sep.}, 
 pages={192–204} 
 }
-...
+```
