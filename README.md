@@ -18,7 +18,7 @@ Duas pastas estão disponibilizadas com o seguinte conteúdo:
 1. Modelos de ECOS para serem utilizados na ferramenta ECOSModeling
 2. Imagens prontas dos ECOS modelados e redes sociotécnicas
 
-## Como citar essa a ferramenta ECOSModeling?
+## Como citar a ferramenta ECOSModeling?
 
 PINHEIRO, F. V. da S.; COUTINHO, E. F.; SANTOS, I.; BEZERRA, C. I. M. A Tool for Supporting the Teaching and Modeling of Software Ecosystems Using SSN Notation. Journal on Interactive Systems, Porto Alegre, RS, v. 13, n. 1, p. 192–204, 2022. DOI: 10.5753/jis.2022.2602. Disponível em: https://sol.sbc.org.br/journals/index.php/jis/article/view/2602.
 
